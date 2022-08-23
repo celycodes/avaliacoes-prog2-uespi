@@ -19,6 +19,8 @@ import 'dart:io';
 import 'package:prova_3_prog2/elements.dart';
 import 'package:prova_3_prog2/molecule.dart';
 
+// Celenny Cristhyne e Richelle Kim
+
 /*
  * Exibe uma linha na tela
  */
